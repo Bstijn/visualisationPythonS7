@@ -46,10 +46,10 @@ if __name__ == '__main__':
         (1.0, 0.0, 0.0)  # color
     )
     Cone(window_renderer.renderer).setup_cone(
-        0.5, 2.0, 10,  # radius, height, resolution
-        (1.0, 1.0, 1.0),  # direction
+        0.5, 2.0, 4,  # radius, height, resolution
+        (0.3, 1.0, 0.3),  # direction
         (2.0, 2.0, 2.0),  # center
-        (0.0, 1.0, 0.0)  # color
+        (0.0, 1.0, 1.0)  # color
     )
 
     window_renderer.setup_render_window()
