@@ -25,7 +25,7 @@ class WindowRenderer:
 
         # Set renderer
         self.renderer.SetActiveCamera(self.__camera)
-        self.renderer.SetBackground(0.0, 0.0, 1.0)
+        self.renderer.SetBackground(0.6, 0.6, 0.6)
 
         # Set render window
         self.__render_window.AddRenderer(self.renderer)

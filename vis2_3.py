@@ -39,7 +39,7 @@ class UGVisualiser:
 
 if __name__ == "__main__":
     renderer = WindowRenderer()
-    UGVisualiser(renderer.renderer).setup("vtkfiles/object.vtk")
+    UGVisualiser(renderer.renderer).setup("vtkfiles/density.vtk")
 
     renderer.setup_render_window()
     renderer.start_render_window()
