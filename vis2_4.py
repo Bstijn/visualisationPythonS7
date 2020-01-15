@@ -38,7 +38,7 @@ class VtkTextureReader:
 
 if __name__ == '__main__':
     windowrenderer = WindowRenderer()
-    VtkTextureReader(windowrenderer.renderer).setup("images/marbles.bmp")
+    VtkTextureReader(windowrenderer.renderer).setup("images/stuff.bmp")
 
     windowrenderer.setup_render_window()
     windowrenderer.start_render_window()
