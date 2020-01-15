@@ -7,7 +7,8 @@ from vtkmodules.all import (
     vtkDataSetMapper,
     vtkGlyph3D,
     vtkArrowSource,
-    vtkPolyDataMapper
+    vtkPolyDataMapper,
+    vtkSphereSource
 )
 import numpy as np
 from vis2_3 import UGVisualiser
@@ -49,7 +50,6 @@ if __name__ == '__main__':
     __arrow.SetTipRadius(0.1)
     __arrow.SetTipResolution(10)
 
-
     __glyph = vtkGlyph3D()
     __glyph.SetSourceConnection(__arrow.GetOutputPort())
     __glyph.SetInputData(__unstructured_grid)
@@ -69,11 +69,34 @@ if __name__ == '__main__':
     __arrowactor.SetMapper(__arrowmapper)
     #end region arrow
 
+    #region sphere
+    __sphere = vtkSphereSource()
+    __sphere.SetRadius(0.15)
+
+    __sphereglyph = vtkGlyph3D()
+    __sphereglyph.SetSourceConnection(__sphere.GetOutputPort())
+    __sphereglyph.SetInputData(__unstructured_grid)
+    __sphereglyph.SetVectorModeToUseVector()
+    __sphereglyph.SetColorModeToColorByScalar()
+    __sphereglyph.SetScaleModeToDataScalingOff()
+    __sphereglyph.OrientOn()
+    __sphereglyph.SetScaleFactor(0.2)
+
+    __sphereactor = vtkActor()
+    __spheremapper = vtkDataSetMapper()
+    __spheremapper.SetInputConnection(__sphereglyph.GetOutputPort())
+    __spheremapper.SetScalarRange(0.0, 1.0)
+    __spheremapper.ScalarVisibilityOn()
+    __spheremapper.Update()
+
+    __sphereactor.SetMapper(__spheremapper)
+    #end region sphere
+
 
     renderer = WindowRenderer()
     renderer.renderer.AddActor(__actor)
     renderer.renderer.AddActor(__arrowactor)
+    renderer.renderer.AddActor(__sphereactor)
     renderer.setup_render_window()
     renderer.start_render_window()
-
 

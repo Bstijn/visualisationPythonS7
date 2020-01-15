@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a8c30d-ed74-493c-bb9f-21f103e4f29d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/stuff.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/coordinaten.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/waarden.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vis3_4_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/marbles.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vis2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/vis2_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vis3_4_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/vis3_4_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +265,7 @@
       <workItem from="1577965965990" duration="5396000" />
       <workItem from="1578563517734" duration="1539000" />
       <workItem from="1578572218199" duration="5944000" />
-      <workItem from="1579081417726" duration="17994000" />
+      <workItem from="1579081417726" duration="18415000" />
     </task>
     <servers />
   </component>
@@ -293,30 +284,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="239" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1577966581416" />
-    <state x="114" y="118" key="CommitChangelistDialog2" timestamp="1579099388284">
+    <state x="114" y="118" key="CommitChangelistDialog2" timestamp="1579101215671">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="114" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579099388284" />
+    <state x="114" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579101215671" />
     <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1577457651764">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577457651764" />
-    <state width="914" height="114" key="GridCell.Tab.0.bottom" timestamp="1579101032376">
+    <state width="914" height="114" key="GridCell.Tab.0.bottom" timestamp="1579101464683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="114" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579101032376" />
-    <state width="914" height="114" key="GridCell.Tab.0.center" timestamp="1579101032376">
+    <state width="914" height="114" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579101464683" />
+    <state width="914" height="114" key="GridCell.Tab.0.center" timestamp="1579101464683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="114" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579101032376" />
-    <state width="914" height="114" key="GridCell.Tab.0.left" timestamp="1579101032376">
+    <state width="914" height="114" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579101464683" />
+    <state width="914" height="114" key="GridCell.Tab.0.left" timestamp="1579101464683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="114" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579101032376" />
-    <state width="914" height="114" key="GridCell.Tab.0.right" timestamp="1579101032376">
+    <state width="914" height="114" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579101464683" />
+    <state width="914" height="114" key="GridCell.Tab.0.right" timestamp="1579101464683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="114" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579101032376" />
+    <state width="914" height="114" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579101464683" />
     <state width="916" height="351" key="GridCell.Tab.1.bottom" timestamp="1579088702407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -362,7 +353,7 @@
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis2_4.coverage" NAME="vis2_4 Coverage Results" MODIFIED="1579093822249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/vis$Vis1_1.coverage" NAME="Vis1_1 Coverage Results" MODIFIED="1576673320481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis1_2.coverage" NAME="vis1_2 Coverage Results" MODIFIED="1577449372396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_4_1.coverage" NAME="vis3_4_1 Coverage Results" MODIFIED="1579101032370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_4_1.coverage" NAME="vis3_4_1 Coverage Results" MODIFIED="1579101464667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis2_5.coverage" NAME="vis2_5 Coverage Results" MODIFIED="1577451558414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_3_3.coverage" NAME="vis3_3_3 Coverage Results" MODIFIED="1579095633666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_2_1.coverage" NAME="vis3_2_1 Coverage Results" MODIFIED="1579084006086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
