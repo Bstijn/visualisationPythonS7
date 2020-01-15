@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a8c30d-ed74-493c-bb9f-21f103e4f29d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/vis3_3_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vis3_3_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <recent name="D:\Stijn\Fontys\Minor VR\VUI\wmre\visualisationPythonS7\vtkfiles" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.vis3_3_1">
+  <component name="RunManager" selected="Python.vis3_3_2">
     <configuration name="Vis1_1" type="PythonConfigurationType" factoryName="Python">
       <module name="vis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,28 +98,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis1_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="vis3_1_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="vis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis3_1_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,22 +194,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="vis3_3_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis3_3_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Vis1_1" />
       <item itemvalue="Python.vis1_2" />
-      <item itemvalue="Python.vis3_1_1" />
       <item itemvalue="Python.vis3_2_1" />
       <item itemvalue="Python.vis3_2_2" />
       <item itemvalue="Python.vis3_2_3" />
       <item itemvalue="Python.vis3_3_1" />
+      <item itemvalue="Python.vis3_3_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.vis3_3_2" />
         <item itemvalue="Python.vis3_3_1" />
         <item itemvalue="Python.vis3_2_3" />
         <item itemvalue="Python.vis3_2_2" />
         <item itemvalue="Python.vis3_2_1" />
-        <item itemvalue="Python.vis3_1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +265,7 @@
       <workItem from="1577965965990" duration="5396000" />
       <workItem from="1578563517734" duration="1539000" />
       <workItem from="1578572218199" duration="5944000" />
-      <workItem from="1579081417726" duration="8371000" />
+      <workItem from="1579081417726" duration="9125000" />
     </task>
     <servers />
   </component>
@@ -292,22 +292,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577457651764" />
-    <state width="914" height="114" key="GridCell.Tab.0.bottom" timestamp="1579091282845">
+    <state width="914" height="114" key="GridCell.Tab.0.bottom" timestamp="1579092097541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="114" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579091282845" />
-    <state width="914" height="114" key="GridCell.Tab.0.center" timestamp="1579091282845">
+    <state width="914" height="114" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579092097541" />
+    <state width="914" height="114" key="GridCell.Tab.0.center" timestamp="1579092097541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="114" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579091282845" />
-    <state width="914" height="114" key="GridCell.Tab.0.left" timestamp="1579091282844">
+    <state width="914" height="114" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579092097541" />
+    <state width="914" height="114" key="GridCell.Tab.0.left" timestamp="1579092097541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="114" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579091282844" />
-    <state width="914" height="114" key="GridCell.Tab.0.right" timestamp="1579091282845">
+    <state width="914" height="114" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579092097541" />
+    <state width="914" height="114" key="GridCell.Tab.0.right" timestamp="1579092097541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="114" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579091282845" />
+    <state width="914" height="114" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579092097541" />
     <state width="916" height="351" key="GridCell.Tab.1.bottom" timestamp="1579088702407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -348,6 +348,7 @@
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_2_3.coverage" NAME="vis3_2_3 Coverage Results" MODIFIED="1579088941467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_3_1.coverage" NAME="vis3_3_1 Coverage Results" MODIFIED="1579091282837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis2_3.coverage" NAME="vis2_3 Coverage Results" MODIFIED="1577450531123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_3_2.coverage" NAME="vis3_3_2 Coverage Results" MODIFIED="1579092097536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_1_2.coverage" NAME="vis3_1_2 Coverage Results" MODIFIED="1579081433692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/vis$Vis1_1.coverage" NAME="Vis1_1 Coverage Results" MODIFIED="1576673320481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis1_2.coverage" NAME="vis1_2 Coverage Results" MODIFIED="1577449372396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
