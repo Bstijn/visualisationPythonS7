@@ -5,7 +5,7 @@ from vtkmodules.all import (
     vtkOutlineFilter,
     vtkSphere,
     vtkCutter,
-    vtkClipDataSet
+    vtkClipPolyData
 )
 
 from util.window_renderer import WindowRenderer
@@ -34,9 +34,30 @@ def kneeinner(renderer, zoomlevel, opacity, color):
     # Set contour filter
     contourfilter.SetInputConnection(extracter.GetOutputPort())
     contourfilter.SetValue(0, zoomlevel)
+    
+    # Clipping 1
+    clipper = vtkClipPolyData()
+    clipper.SetGenerateClipScalars(0)
+    sphere = vtkSphere()
+    sphere.SetRadius(110)
+    sphere.SetCenter((74.8305, 89.2905, 275))
+    print(sphere.GetCenter())
+    print(reader.GetOutput().GetCenter())
+    clipper.SetInputConnection(contourfilter.GetOutputPort())
+    clipper.SetClipFunction(sphere)
+    clipper.Update()
 
+    #clipping 2
+    clipper2 = vtkClipPolyData()
+    clipper2.SetGenerateClipScalars(0)
+    sphere2 = vtkSphere()
+    sphere2.SetRadius(100)
+    sphere2.SetCenter((74.8305, 89.2905, -20))
+    clipper2.SetInputConnection(clipper.GetOutputPort())
+    clipper2.SetClipFunction(sphere2)
+    clipper2.Update()
 
-    mapper.SetInputConnection(contourfilter.GetOutputPort())
+    mapper.SetInputConnection(clipper2.GetOutputPort())
     mapper.ScalarVisibilityOff()
 
     # Set property
@@ -81,6 +102,7 @@ if __name__ == '__main__':
     kneeinner(renderer, 90,1, (1,1,1)) #InnerBone
     kneeinner(renderer, 20,0.2,(1, 0.8, 0.4)) #skin
     kneeinner(renderer, 60,0.01,(0, 1, 0)) #skin
+
 
     window.setup_render_window()
     window.start_render_window()
