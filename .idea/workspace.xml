@@ -2,100 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a8c30d-ed74-493c-bb9f-21f103e4f29d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.13" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.14" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.17" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.18" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.19" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.22" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.23" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.24" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.27" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.29" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.31" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.32" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.33" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.34" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.35" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.36" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.37" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.38" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.39" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.40" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.41" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.42" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.43" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.44" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.45" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.46" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.47" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.48" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.49" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.51" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.52" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.53" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.54" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.55" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.56" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.57" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.59" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.60" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.61" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.62" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.63" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.64" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.65" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.67" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.68" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.69" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.70" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.71" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.72" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.73" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.74" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.75" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.76" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.77" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.78" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.79" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.80" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.81" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.82" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.83" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.84" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.85" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.86" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.87" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.88" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.89" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.90" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.91" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.92" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/objfiles/headsq/quarter.93" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vis4_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vis4_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +63,7 @@
       <recent name="D:\Stijn\Fontys\Minor VR\VUI\wmre\visualisationPythonS7\vtkfiles" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.vis4_2">
+  <component name="RunManager" selected="Python.vis4_3">
     <configuration name="Vis1_1" type="PythonConfigurationType" factoryName="Python">
       <module name="vis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,28 +122,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis3_1_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="vis3_3_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="vis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis3_3_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,22 +196,44 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="vis4_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="vis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vis4_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Vis1_1" />
       <item itemvalue="Python.vis1_2" />
-      <item itemvalue="Python.vis3_3_3" />
       <item itemvalue="Python.vis3_4_1" />
       <item itemvalue="Python.vis4_1" />
       <item itemvalue="Python.vis4_2" />
       <item itemvalue="Python.vis3_1_2" />
+      <item itemvalue="Python.vis4_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.vis4_3" />
         <item itemvalue="Python.vis4_2" />
         <item itemvalue="Python.vis4_1" />
         <item itemvalue="Python.vis3_1_2" />
         <item itemvalue="Python.vis3_4_1" />
-        <item itemvalue="Python.vis3_3_3" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +268,7 @@
       <workItem from="1578563517734" duration="1539000" />
       <workItem from="1578572218199" duration="5944000" />
       <workItem from="1579081417726" duration="18689000" />
-      <workItem from="1579167913575" duration="4277000" />
+      <workItem from="1579167913575" duration="8169000" />
     </task>
     <servers />
   </component>
@@ -388,22 +295,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577457651764" />
-    <state width="1877" height="112" key="GridCell.Tab.0.bottom" timestamp="1579172394270">
+    <state width="914" height="112" key="GridCell.Tab.0.bottom" timestamp="1579176464298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="112" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579172394270" />
-    <state width="1877" height="112" key="GridCell.Tab.0.center" timestamp="1579172394270">
+    <state width="914" height="112" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579176464298" />
+    <state width="914" height="112" key="GridCell.Tab.0.center" timestamp="1579176464298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="112" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579172394270" />
-    <state width="1877" height="112" key="GridCell.Tab.0.left" timestamp="1579172394270">
+    <state width="914" height="112" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579176464298" />
+    <state width="914" height="112" key="GridCell.Tab.0.left" timestamp="1579176464298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="112" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579172394270" />
-    <state width="1877" height="112" key="GridCell.Tab.0.right" timestamp="1579172394270">
+    <state width="914" height="112" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579176464298" />
+    <state width="914" height="112" key="GridCell.Tab.0.right" timestamp="1579176464298">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="112" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579172394270" />
+    <state width="914" height="112" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579176464298" />
     <state width="914" height="347" key="GridCell.Tab.1.bottom" timestamp="1579171263963">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -428,10 +335,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579168057549" />
-    <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1579171219684">
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1579174249605">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-7" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1579171219684" />
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1579174249605" />
     <state x="136" y="180" width="672" height="676" key="search.everywhere.popup" timestamp="1579172162949">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -439,6 +346,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/visualisationPythonS7$Vis1_1.coverage" NAME="Vis1_1 Coverage Results" MODIFIED="1577449388913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/visualisationPythonS7$vis4_3.coverage" NAME="vis4_3 Coverage Results" MODIFIED="1579176464292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis2_1.coverage" NAME="vis2_1 Coverage Results" MODIFIED="1577449319609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis1_3.coverage" NAME="vis1_3 Coverage Results" MODIFIED="1578573203000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/visualisationPythonS7$vis3_2_3.coverage" NAME="vis3_2_3 Coverage Results" MODIFIED="1579088941467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
