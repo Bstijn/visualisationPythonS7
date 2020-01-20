@@ -24,11 +24,13 @@ class UGVisualiser:
         scalar_range = output.GetScalarRange()
 
         # mapper set
-        self.__mapper.SetInputData(self.__gridReader.GetOutput())
+        self.__mapper.SetInputConnection(self.__gridReader.GetOutputPort())
+        self.__mapper.SetScalarRange(scalar_range)
+        self.__mapper.SetScalarModeToUsePointData()
+        self.__mapper.ScalarVisibilityOn()
 
         # Property set
-        self.__property.EdgeVisibilityOn()
-        self.__property.SetLineWidth(2.0)
+
 
         # actor setup
         self.__actor.SetMapper(self.__mapper)
@@ -39,7 +41,7 @@ class UGVisualiser:
 
 if __name__ == "__main__":
     renderer = WindowRenderer()
-    UGVisualiser(renderer.renderer).setup("vtkfiles/density.vtk")
+    UGVisualiser(renderer.renderer).setup("vtkfiles/object.vtk")
 
     renderer.setup_render_window()
     renderer.start_render_window()

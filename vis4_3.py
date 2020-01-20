@@ -101,7 +101,7 @@ if __name__ == '__main__':
     kneeinner(renderer, 140,1, (0,0,0)) #InnerBone
     kneeinner(renderer, 90,1, (1,1,1)) #InnerBone
     kneeinner(renderer, 20,0.2,(1, 0.8, 0.4)) #skin
-    kneeinner(renderer, 60,0.01,(0, 1, 0)) #skin
+    kneeinner(renderer, 60,0.05,(1, 0.25, 0.25)) #skin
 
 
     window.setup_render_window()

@@ -40,10 +40,10 @@ class hedgeHog:
 
     def __setup_lookup_table(self):
         self.__lookup_table.SetNumberOfColors(1000)
-        self.__lookup_table.SetHueRange(0.0, 1.0)
+        self.__lookup_table.SetHueRange(0.7, 0.9)
         self.__lookup_table.SetSaturationRange(1.0, 0.0)
         self.__lookup_table.SetValueRange(1.0, 0.0)
-        self.__lookup_table.SetAlphaRange(1.0, 0.0)
+        self.__lookup_table.SetAlphaRange(1.0, 1)
 
         # Range of scalars that will be mapped
         self.__lookup_table.SetRange(0.0, 1.0)
@@ -51,7 +51,7 @@ class hedgeHog:
 
 if __name__ == "__main__":
     renderer = WindowRenderer()
-    hedgeHog(renderer.renderer).setup("vtkfiles/density.vtk",0.01)
+    hedgeHog(renderer.renderer).setup("vtkfiles/density.vtk",0.001)
 
     renderer.setup_render_window()
     renderer.start_render_window()
